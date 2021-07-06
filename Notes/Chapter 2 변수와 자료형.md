@@ -22,7 +22,7 @@
 
 ## 02-3 실수의 표현 방식 이해하기
 
-![Chapter%202%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20a0dc471c572f413fb98f272f81866c71/Untitled.png](Chapter%202%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%92%E1%85%A7%E1%86%BC%20a0dc471c572f413fb98f272f81866c71/Untitled.png)
+[https://s3.us-west-2.amazonaws.com/secure.notion-static.com/725e69a9-78c5-4716-87e0-60af92239c2d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210706%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210706T111024Z&X-Amz-Expires=86400&X-Amz-Signature=1e57aeaefc10f7b2751e0301c4cec21a168e28ac0c30496498f023fb4dfda059&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22]
 
 부호 + 지수 + 가수(만티싸)
 
