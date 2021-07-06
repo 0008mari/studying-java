@@ -9,7 +9,7 @@ Documents will be written in Korean.
 
 ## Why Java?
 
-Java is popular.
+Java is so popular.
 
 Many frameworks are based on Java.
 
@@ -18,6 +18,8 @@ Good for learning OOP
 ### Why not Java?
 
 Java is not free now.
+
+Open source is the trend, but Java is not.
 
 ### Conclusion
 
