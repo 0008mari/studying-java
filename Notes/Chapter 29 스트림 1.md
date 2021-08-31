@@ -1,4 +1,4 @@
-# Chapter29 스트림Stream 1
+# Chapter 29 스트림Stream 1
 
 ## 29-1 스트림의 이해와 스트림의 생성
 
